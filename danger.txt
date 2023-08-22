@@ -1,5 +1,2 @@
 dbad file
-<<<<<<< HEAD
 
-=======
->>>>>>> 5e4235e (danger.txt)
